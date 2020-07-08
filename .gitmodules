@@ -1,0 +1,3 @@
+[submodule "com.unity.mgobe"]
+	path = com.unity.mgobe
+	url = git@github.com:Unity-Technologies/MGOBE.git
